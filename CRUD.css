@@ -1,0 +1,22 @@
+.app-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+
+.input-fields {
+  margin: 10px;
+}
+
+.button {
+  padding: 7px 14px;
+  background-color: green;
+  color: white;
+  border-radius: 5px;
+}
+p{
+    color: white;
+}
